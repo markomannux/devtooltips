@@ -1,0 +1,25 @@
+/* CSS HEX */
+/*
+ * --persian-indigo: #27187eff;
+ * --cornflower-blue: #758bfdff;
+ * --maximum-blue-purple: #aeb8feff;
+ * --cultured: #f1f2f6ff;
+ * --dark-orange: #ff8600ff;
+ */
+
+body {
+    background-color: #f1f2f6ff;
+}
+
+main {
+    margin-top: 45px;
+}
+
+footer {
+    margin-top: 45px;
+    font-style: italic;
+}
+
+.login-form {
+    margin-top: 32px;
+}
